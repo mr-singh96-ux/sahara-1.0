@@ -441,7 +441,7 @@ export default function VictimDashboard() {
                     className="bg-white/50 hover:bg-white/80 border-destructive/20 rounded-lg text-xs sm:text-sm"
                   >
                     <Phone className="h-3 w-3 sm:h-4 sm:w-4 mr-1 sm:mr-2" />
-                    911
+                    112
                   </Button>
                 </div>
 
@@ -456,7 +456,7 @@ export default function VictimDashboard() {
                     className="bg-white/50 hover:bg-white/80 border-primary/20 rounded-lg text-xs sm:text-sm"
                   >
                     <Phone className="h-3 w-3 sm:h-4 sm:w-4 mr-1 sm:mr-2" />
-                    1-800-RELIEF
+                    1800XX-RELIEF
                   </Button>
                 </div>
 
@@ -471,7 +471,7 @@ export default function VictimDashboard() {
                     className="bg-white/50 hover:bg-white/80 border-secondary/20 rounded-lg text-xs sm:text-sm"
                   >
                     <Phone className="h-3 w-3 sm:h-4 sm:w-4 mr-1 sm:mr-2" />
-                    (555) 123-4567
+                    +91 91234-XXXXX
                   </Button>
                 </div>
               </CardContent>
