@@ -101,11 +101,11 @@ export function Navigation() {
               <div className="space-y-3">
                 <div className="flex items-center gap-3 px-4 py-2 text-sm text-muted-foreground">
                   <Phone className="h-4 w-4" />
-                  <span>Emergency: 911</span>
+                  <span>Emergency: 112</span>
                 </div>
                 <div className="flex items-center gap-3 px-4 py-2 text-sm text-muted-foreground">
                   <Info className="h-4 w-4" />
-                  <span>Relief Hotline: 1-800-RELIEF</span>
+                  <span>Relief Hotline: 1800XX-RELIEF</span>
                 </div>
               </div>
             </div>
