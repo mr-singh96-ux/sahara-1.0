@@ -117,32 +117,32 @@ export default function VolunteerDashboard() {
   // Mock SOS alerts - these would be real-time in production
   const sosAlerts = [
     {
-      id: "SOS-001",
-      location: "Riverside Avenue, Block 12",
-      description: "Person trapped in flooded basement",
-      priority: "Critical",
-      distance: "0.8 km",
-      timeAgo: "2 minutes ago",
-      responders: 3,
-    },
-    {
-      id: "SOS-002",
-      location: "Main Street Shopping Center",
-      description: "Medical emergency - chest pain",
-      priority: "Critical",
-      distance: "1.5 km",
-      timeAgo: "8 minutes ago",
-      responders: 2,
-    },
-    {
-      id: "SOS-003",
-      location: "Oak Park Residential",
-      description: "Family needs immediate evacuation",
-      priority: "High",
-      distance: "2.1 km",
-      timeAgo: "15 minutes ago",
-      responders: 5,
-    },
+    id: "SOS-001",
+    location: "MG Road, Bangalore",
+    description: "Person trapped in flooded ground floor",
+    priority: "Critical",
+    distance: "0.8 km",
+    timeAgo: "2 minutes ago",
+    responders: 3,
+  },
+  {
+    id: "SOS-002",
+    location: "Connaught Place, Delhi",
+    description: "Medical emergency – chest pain",
+    priority: "Critical",
+    distance: "1.5 km",
+    timeAgo: "8 minutes ago",
+    responders: 2,
+  },
+  {
+    id: "SOS-003",
+    location: "Andheri East, Mumbai",
+    description: "Family needs immediate evacuation",
+    priority: "High",
+    distance: "2.1 km",
+    timeAgo: "15 minutes ago",
+    responders: 5,
+  },
   ]
 
   const getPriorityColor = (priority: string) => {
