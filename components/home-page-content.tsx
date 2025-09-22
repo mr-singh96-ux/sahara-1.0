@@ -178,16 +178,16 @@ export function HomePageContent() {
               <div className="text-2xl font-bold text-foreground">Red Cross</div>
             </div>
             <div className="text-center">
-              <div className="text-2xl font-bold text-foreground">UNICEF</div>
+              <div className="text-2xl font-bold text-foreground">KHALSA AID</div>
             </div>
             <div className="text-center">
               <div className="text-2xl font-bold text-foreground">WHO</div>
             </div>
             <div className="text-center">
-              <div className="text-2xl font-bold text-foreground">Doctors Without Borders</div>
+              <div className="text-2xl font-bold text-foreground">GLOBAL SIKHS</div>
             </div>
             <div className="text-center">
-              <div className="text-2xl font-bold text-foreground">Oxfam</div>
+              <div className="text-2xl font-bold text-foreground">SARBAT DA BHALLA</div>
             </div>
           </div>
         </div>
