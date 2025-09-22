@@ -67,15 +67,15 @@ const translations: Translations = {
   // Footer
   "footer.emergency": { en: "Emergency Services", hi: "आपातकालीन सेवाएं" },
   "footer.emergency.desc": {
-    en: "Call 911 for immediate emergency assistance",
-    hi: "तत्काल आपातकालीन सहायता के लिए 911 पर कॉल करें",
+    en: "Call 112 for immediate emergency assistance",
+    hi: "तत्काल आपातकालीन सहायता के लिए 112 पर कॉल करें",
   },
   "footer.hotline": { en: "Disaster Relief Hotline", hi: "आपदा राहत हॉटलाइन" },
-  "footer.hotline.desc": { en: "1-800-RELIEF for 24/7 support", hi: "24/7 सहायता के लिए 1-800-RELIEF" },
+  "footer.hotline.desc": { en: "1800XX-RELIEF for 24/7 support", hi: "24/7 सहायता के लिए 1800XX-RELIEF" },
   "footer.support": { en: "Contact Support", hi: "सहायता संपर्क" },
   "footer.copyright": {
-    en: "© 2024 Sahara Disaster Relief & Management System. Demo Prototype.",
-    hi: "© 2024 सहारा आपदा राहत और प्रबंधन प्रणाली। डेमो प्रोटोटाइप।",
+    en: "© 2025 Sahara Disaster Relief & Management System. Demo Prototype.",
+    hi: "© 2025 सहारा आपदा राहत और प्रबंधन प्रणाली। डेमो प्रोटोटाइप।",
   },
 
   // Common
