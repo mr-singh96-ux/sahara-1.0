@@ -175,7 +175,7 @@ export function HomePageContent() {
           </div>
           <div className="grid grid-cols-2 md:grid-cols-5 gap-8 items-center opacity-60">
             <div className="text-center">
-              <div className="text-2xl font-bold text-foreground">Red Cross</div>
+              <div className="text-2xl font-bold text-foreground">RED CROSS</div>
             </div>
             <div className="text-center">
               <div className="text-2xl font-bold text-foreground">KHALSA AID</div>
