@@ -74,8 +74,8 @@ const translations: Translations = {
   "footer.hotline.desc": { en: "1800XX-RELIEF for 24/7 support", hi: "24/7 सहायता के लिए 1800XX-RELIEF" },
   "footer.support": { en: "Contact Support", hi: "सहायता संपर्क" },
   "footer.copyright": {
-    en: "© 2025 Sahara Disaster Relief & Management System. Demo Prototype.",
-    hi: "© 2025 सहारा आपदा राहत और प्रबंधन प्रणाली। डेमो प्रोटोटाइप।",
+    en: "© 2025 Sahara Disaster Relief & Management System.",
+    hi: "© 2025 सहारा आपदा राहत और प्रबंधन प्रणाली।",
   },
 
   // Common
